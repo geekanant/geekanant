@@ -1,6 +1,6 @@
 ### Hi there, I'm Anant Patni - aka [geekanant][website] 👋
 
-[![Website](https://img.shields.io/website?label=anantpatni.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=anantpatni.com&style=for-the-badge&url=https://www.anantpatni.com)](https://www.anantpatni.com)
 
 ## I'm a Developer, Innovator and an Engineer!!
 
