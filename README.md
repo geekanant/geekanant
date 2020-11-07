@@ -16,9 +16,8 @@
 [<img align="left" alt="anantpatni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="geekanant | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="geekanant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="geekanant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="geekanant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="geekanant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="geekanant | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="geekanant | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
 
 <br />
 
@@ -56,7 +55,6 @@
 [website]: https://www.anantpatni.com
 [extension]: https://chrome.google.com/webstore/detail/geeksforgeeks-dark-mode/nmdpdgickahiikobclgoolmfgiibegke?hl=en-GB
 [youtube]: https://www.youtube.com/channel/UCba8EopBAXKZKpmkgHWtOxw
-[instagram]: https://instagram.com/geekanant
 [linkedin]: https://www.linkedin.com/in/anantpatni1/
 [quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant
 [stackoverflow]: https://stackoverflow.com/users/8826295/geekanant
