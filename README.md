@@ -59,5 +59,5 @@
 [linkedin]: https://www.linkedin.com/in/anantpatni1/
 [quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant
 [stackoverflow]: https://stackoverflow.com/users/8826295/geekanant
-[medium]: https://medium.com/@anantpatni1
+[medium]: https://medium.com/@geekanant
 
