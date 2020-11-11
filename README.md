@@ -18,6 +18,7 @@
 [<img align="left" alt="geekanant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="geekanant | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="geekanant | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
+[<img align="left" alt="geekanant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -58,4 +59,5 @@
 [linkedin]: https://www.linkedin.com/in/anantpatni1/
 [quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant
 [stackoverflow]: https://stackoverflow.com/users/8826295/geekanant
+[medium]: https://medium.com/@anantpatni1
 
