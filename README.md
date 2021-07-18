@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Innovator and an Engineer!!
 
-- 🔭 I just launched my first Chrome Extension: [GeeksforGeeks Dark Mode][extension]!
+- 🔭 I just launched my first VS Code Extension: [Google Meet VS Code][extension]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop some more awesome stuff!
 - 🥅 2020 Goals: Start Tech Blogging
@@ -54,7 +54,7 @@
 ---
 
 [website]: https://www.anantpatni.com
-[extension]: https://chrome.google.com/webstore/detail/geeksforgeeks-dark-mode/nmdpdgickahiikobclgoolmfgiibegke?hl=en-GB
+[extension]: https://marketplace.visualstudio.com/items?itemName=geekanant.meet
 [youtube]: https://www.youtube.com/channel/UCba8EopBAXKZKpmkgHWtOxw
 [linkedin]: https://www.linkedin.com/in/anantpatni1/
 [quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant
