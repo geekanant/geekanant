@@ -7,7 +7,7 @@
 - 🔭 I just launched my first VS Code Extension: [Google Meet VS Code][extension]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop some more awesome stuff!
-- 🥅 2020 Goals: Start Tech Blogging
+- 🥅 2021 Goals: Start Tech Blogging
 - 😎 Developed a Dating App in college which became #1 trending on Play Store (Dating Category)
 
 
