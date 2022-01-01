@@ -4,16 +4,17 @@
 
 ## I'm a Developer, Innovator and an Engineer!!
 
-- 🔭 I just launched my first VS Code Extension: [Google Meet VS Code][extension]!
+- 🔭 My VS Code extension made it to monthly trending list!: [Chrome Dino Game][extension]!
+- 🥅 2022 Goals: Share tech knowledge on [instagram][Instagram]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop some more awesome stuff!
-- 🥅 2021 Goals: Start Tech Blogging
 - 😎 Developed a Dating App in college which became #1 trending on Play Store (Dating Category)
 
 
 ### Connect with me:
 
 [<img align="left" alt="anantpatni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="geekanant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="geekanant | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="geekanant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="geekanant | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
@@ -54,10 +55,12 @@
 ---
 
 [website]: https://www.anantpatni.com
-[extension]: https://marketplace.visualstudio.com/items?itemName=geekanant.meet
+[instagram]: https://www.instagram.com/geekanant/
+[extension]: https://marketplace.visualstudio.com/items?itemName=geekanant.chrome-dinosaur-game
 [youtube]: https://www.youtube.com/channel/UCba8EopBAXKZKpmkgHWtOxw
 [linkedin]: https://www.linkedin.com/in/anantpatni1/
 [quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant
 [stackoverflow]: https://stackoverflow.com/users/8826295/geekanant
 [medium]: https://medium.com/@geekanant
+
 
