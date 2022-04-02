@@ -56,7 +56,7 @@
 
 [website]: https://www.anantpatni.com
 [instagram]: https://www.instagram.com/geekanant/
-[extension]: https://marketplace.visualstudio.com/items?itemName=geekanant.chrome-dinosaur-game
+[extension]: https://marketplace.visualstudio.com/search?term=geekanant&target=VSCode&category=Other&sortBy=Relevance
 [youtube]: https://www.youtube.com/channel/UCba8EopBAXKZKpmkgHWtOxw
 [linkedin]: https://www.linkedin.com/in/anantpatni1/
 [quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant
