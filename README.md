@@ -2,6 +2,8 @@
 
 [![Website](https://img.shields.io/website?label=anantpatni.com&style=for-the-badge&url=https://www.anantpatni.com)](https://www.anantpatni.com)
 
+![](https://komarev.com/ghpvc/?username=geekanant)
+
 ## I'm a Developer, Innovator and an Engineer!!
 
 - 🔭 My VS Code extension made it to monthly trending list!: [Chrome Dino Game][extension]!
