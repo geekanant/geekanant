@@ -7,7 +7,7 @@
 ## I'm a Developer, Innovator and an Engineer!!
 
 - 🔭 My VS Code extension made it to monthly trending list!: [Chrome Dino Game][extension]!
-- 🥅 2022 Goals: Share tech knowledge on [instagram][Instagram]!
+- 🥅 2023 Goals: Become a fitness freak!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to develop some more awesome stuff!
 - 😎 Developed a Dating App in college which became #1 trending on Play Store (Dating Category)
