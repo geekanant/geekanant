@@ -1,68 +1,53 @@
-### Hi there, I'm Anant Patni - aka [geekanant][website] 👋
+# 👋 Hi there, I'm Anant Patni — aka [geekanant][website]  
 
 [![Website](https://img.shields.io/website?label=anantpatni.com&style=for-the-badge&url=https://www.anantpatni.com)](https://www.anantpatni.com)
+![](https://komarev.com/ghpvc/?username=geekanant&style=for-the-badge)
 
-![](https://komarev.com/ghpvc/?username=geekanant)
+### 💡 Software Engineer | Indie Builder | Weekend Coder
 
-## I'm a Developer, Innovator and an Engineer!!
-
-- 🔭 My VS Code extension made it to monthly trending list!: [Chrome Dino Game][extension]!
-- 🥅 2023 Goals: Become a fitness freak!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to develop some more awesome stuff!
-- 😎 Developed a Dating App in college which became #1 trending on Play Store (Dating Category)
-
-
-### Connect with me:
-
-[<img align="left" alt="anantpatni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="geekanant | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="geekanant | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="geekanant | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="geekanant | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="geekanant | Quora" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />][quora]
-[<img align="left" alt="geekanant | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+I'm a developer who loves shipping ideas from 0 → 1.  
+From building Chrome/VS Code extensions to launching viral products like **[DevShaadi.com](https://www.devshaadi.com)**, I thrive on solving real-world problems with clean, scalable code.
 
 ---
 
-### 📺 Currently Watching on YouTube
-
-<!-- YOUTUBE:START -->
-- [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
-- [Tech Dummies](https://www.youtube.com/c/TechDummiesNarendraL/featured)
-- [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
-
+## 🚀 Highlighted Projects  
+- 💍 **[DevShaadi.com](https://www.devshaadi.com)** — Matrimony meets GitHub/LinkedIn | 10K+ users | 1K+ paired in 20 days of launch
+- 🦖 **[Dino Game for VS Code](https://marketplace.visualstudio.com/items?itemName=geekanant.chrome-dinosaur-game)** — 45,000+ users | 5⭐ avg | Made it to the trending list  
+- 💬 **[Google Meet for VS Code](https://marketplace.visualstudio.com/items?itemName=geekanant.meet)** — Seamless meetings inside your editor  
+- 🌙 **[Dark Mode for GeeksforGeeks](https://chrome.google.com/webstore/detail/nmdpdgickahiikobclgoolmfgiibegke)** — Featured Chrome extension  
+- 💘 **[Love in JIIT (Android App)](https://www.youtube.com/watch?v=knpIQj43emU)** — #1 Trending under Dating on Play Store for 24 hours after launch 
+- 💸 **[Earn in JIIT](https://www.youtube.com/watch?v=K47js-WHmuQ)** — A college marketplace built with MEVN stack
 
 ---
 
-[website]: https://www.anantpatni.com
-[instagram]: https://www.instagram.com/geekanant/
-[extension]: https://marketplace.visualstudio.com/search?term=geekanant&target=VSCode&category=Other&sortBy=Relevance
-[youtube]: https://www.youtube.com/channel/UCba8EopBAXKZKpmkgHWtOxw
-[linkedin]: https://www.linkedin.com/in/anantpatni1/
-[quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant
-[stackoverflow]: https://stackoverflow.com/users/8826295/geekanant
-[medium]: https://medium.com/@geekanant
+## 🛠 Tech Stack
 
+**Frontend**: React.js • Vue.js • HTML • CSS • Sass • TypeScript  
+**Backend**: Node.js • Express • MongoDB • SQL  
+**Mobile**: React Native  
+**Tools**: Git • GitHub • VS Code • JIRA • Confluence  
 
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)][linkedin]
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)][youtube]
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)][instagram]
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)][medium]
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=flat&logo=stackoverflow&logoColor=white)][stackoverflow]
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=flat&logo=quora&logoColor=white)][quora]
+
+---
+
+📬 Stay curious. Keep building.  
+— Anant
+
+[website]: https://www.anantpatni.com  
+[instagram]: https://www.instagram.com/geekanant/  
+[extension]: https://marketplace.visualstudio.com/search?term=geekanant&target=VSCode&category=Other&sortBy=Relevance  
+[youtube]: https://www.youtube.com/channel/UCba8EopBAXKZKpmkgHWtOxw  
+[linkedin]: https://www.linkedin.com/in/anantpatni1/  
+[quora]: https://www.quora.com/profile/Anant-Patni-Geek-Anant  
+[stackoverflow]: https://stackoverflow.com/users/8826295/geekanant  
+[medium]: https://medium.com/@geekanant  
