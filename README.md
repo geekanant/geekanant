@@ -12,7 +12,7 @@ From building Chrome/VS Code extensions to launching viral products like **[DevS
 
 ## 🚀 Highlighted Projects  
 - 💍 **[DevShaadi.com](https://www.devshaadi.com)** — Matrimony meets GitHub/LinkedIn | 10K+ users | 1K+ paired in 20 days of launch
-- 🦖 **[Dino Game for VS Code](https://marketplace.visualstudio.com/items?itemName=geekanant.chrome-dinosaur-game)** — 45,000+ users | 5⭐ avg | Made it to the trending list  
+- 🦖 **[Dino Game for VS Code](https://marketplace.visualstudio.com/items?itemName=geekanant.chrome-dinosaur-game)** — 50,000+ users | 4.8/5⭐ avg | Made it to the trending list  
 - 💬 **[Google Meet for VS Code](https://marketplace.visualstudio.com/items?itemName=geekanant.meet)** — Seamless meetings inside your editor  
 - 🌙 **[Dark Mode for GeeksforGeeks](https://chrome.google.com/webstore/detail/nmdpdgickahiikobclgoolmfgiibegke)** — Featured Chrome extension  
 - 💘 **[Love in JIIT (Android App)](https://www.youtube.com/watch?v=knpIQj43emU)** — #1 Trending under Dating on Play Store for 24 hours after launch 
